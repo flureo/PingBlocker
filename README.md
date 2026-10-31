@@ -55,7 +55,7 @@ cloak:
 ## Features
 
 - Clean Name!
-- Active Development!
+- Active Development (Not anymore lol)!
 - Ping Blocking!
 - Ping Masking!
 - Custom Ping Response!
